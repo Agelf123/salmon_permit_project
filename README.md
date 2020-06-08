@@ -46,17 +46,17 @@ Data Dictionary
 
 References
 
-https://www.indexmundi.com/commodities/?commodity=shrimp&months=360
-https://ourworldindata.org/seafood-production
-https://www.cfec.state.ak.us/pmtvalue/X_S03T.HTM
-http://www.adfg.alaska.gov/sf/FishCounts/
-http://www.adfg.alaska.gov/index.cfm?ADFG=fishingCommercialByArea.main
-http://www.adfg.alaska.gov/index.cfm?adfg=commercialbyfisherysalmon.salmonforecast
-https://www.adfg.alaska.gov/index.cfm?adfg=commercialbyfisherysalmon.salmoncatch_wholesale
-https://www.adfg.alaska.gov/index.cfm?adfg=commercialbyfisherysalmon.salmoncatch_statewide
-https://www.adfg.alaska.gov/index.cfm?adfg=fishlicense.coar_salmonproduction
-http://www.adfg.alaska.gov/sf/FishCounts/
-https://www.adfg.alaska.gov/index.cfm?adfg=commercialbyfisherysalmon.salmon_grossearnings_byarea
-https://www.adfg.alaska.gov/index.cfm?adfg=commercialbyfisherysalmon.salmon_by_report_type
-https://www.adfg.alaska.gov/index.cfm?adfg=commercialbyfisherysalmon.salmon_combined_historical
-https://www.adfg.alaska.gov/index.cfm?adfg=commercialbyfisherysalmon.salmoncatch_wholesale
+ - https://www.indexmundi.com/commodities/?commodity=shrimp&months=360
+ - https://ourworldindata.org/seafood-production
+ - https://www.cfec.state.ak.us/pmtvalue/X_S03T.HTM
+ - http://www.adfg.alaska.gov/sf/FishCounts/
+ - http://www.adfg.alaska.gov/index.cfm?ADFG=fishingCommercialByArea.main
+ - http://www.adfg.alaska.gov/index.cfm?adfg=commercialbyfisherysalmon.salmonforecast
+ - https://www.adfg.alaska.gov/index.cfm?adfg=commercialbyfisherysalmon.salmoncatch_wholesale
+ - https://www.adfg.alaska.gov/index.cfm?adfg=commercialbyfisherysalmon.salmoncatch_statewide
+ - https://www.adfg.alaska.gov/index.cfm?adfg=fishlicense.coar_salmonproduction
+ - http://www.adfg.alaska.gov/sf/FishCounts/
+ - https://www.adfg.alaska.gov/index.cfm?adfg=commercialbyfisherysalmon.salmon_grossearnings_byarea
+ - https://www.adfg.alaska.gov/index.cfm?adfg=commercialbyfisherysalmon.salmon_by_report_type
+ - https://www.adfg.alaska.gov/index.cfm?adfg=commercialbyfisherysalmon.salmon_combined_historical
+ - https://www.adfg.alaska.gov/index.cfm?adfg=commercialbyfisherysalmon.salmoncatch_wholesale
